@@ -1,0 +1,13 @@
+{
+"companyName": "Cursed Entertainment",
+"productName": "Mirror Macabre",
+"dataUrl": "Mirror-Macabre.data.unityweb",
+"asmCodeUrl": "Mirror-Macabre.asm.code.unityweb",
+"asmMemoryUrl": "Mirror-Macabre.asm.memory.unityweb",
+"asmFrameworkUrl": "Mirror-Macabre.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
